@@ -1,9 +1,6 @@
 # 👋 Hi, I’m Charlie Benjafield
 
-I'm a developer based in Milton Keynes, currently working as Head of IT at driveJohnson's and Drive 321.
-
-I currently build apps and software for the driving school industry.
-
+I'm a developer based in Milton Keynes, currently working as a developer at Omlet Ltd
 
 
 <!---
